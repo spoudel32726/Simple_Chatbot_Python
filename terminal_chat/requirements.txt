@@ -1,0 +1,13 @@
+asgiref==3.9.2
+chatterbot-corpus==1.2.0
+ChatterBot2==1.1.0a7
+Django==4.2.16
+mathparse==0.1.2
+pymongo==3.13.0
+python-dateutil==2.8.2
+pytz==2025.2
+PyYAML==3.13
+six==1.17.0
+SQLAlchemy==1.3.24
+sqlparse==0.5.3
+typing_extensions==4.15.0
